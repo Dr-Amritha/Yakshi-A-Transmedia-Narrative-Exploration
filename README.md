@@ -12,9 +12,9 @@ Through this project, we ask:
 ✨ How can these archetypes shape speculative climate storytelling and feminist design futures?
 
 We will explore:
-✅ Story frameworks and visual mythologies for XR and gaming.
-✅ Narrative mechanics connecting place, memory, and feminine power.
-✅ GitHub-based open collaboration for artists, designers, and researchers to contribute culturally grounded expansions.
+Story frameworks and visual mythologies for XR and gaming.
+Narrative mechanics connecting place, memory, and feminine power.
+GitHub-based open collaboration for artists, designers, and researchers to contribute culturally grounded expansions.
 
 If you’re interested in transmedia design, folklore studies, game narratives, or speculative futures, we invite you to follow our progress, contribute, and remix with us.
 Let’s explore how Yakshi can guide us into stories that are as wild, powerful, and liminal as she is.
