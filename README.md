@@ -1,4 +1,4 @@
-Yakshi: A Transmedia Narrative Exploration
+# Yakshi: A Transmedia Narrative Exploration
 
 At Smart Story Labs, we are excited to announce a new GitHub project that dives into the transmedia narrative of Yakshi – reimagining this South Asian folklore spirit as a lens to explore cross-cultural storytelling, feminist hauntings, and ecological narratives.
 
